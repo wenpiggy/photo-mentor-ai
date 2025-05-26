@@ -1,0 +1,6 @@
+
+{
+  "name": "포토멘토 AI",
+  "description": "AI 기반 사진 구도 피드백으로 사진 실력을 향상시키세요. 지능형 분석이 함께합니다.",
+  "requestFramePermissions": ["camera"]
+}
